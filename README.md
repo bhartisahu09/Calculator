@@ -1,4 +1,4 @@
-# Multi Utility App
+# Calculator App
 
 A modern Flutter application that combines multiple useful tools in one elegant interface. Built with Material Design 3 and featuring smooth animations, this app provides three essential utilities: Calculator, Age Calculator, and BMI Calculator.
 
@@ -11,21 +11,21 @@ A modern Flutter application that combines multiple useful tools in one elegant 
 - **Professional color scheme** with minimal, clean aesthetics
 - **Smooth animations** and micro-interactions throughout the app
 
-### 🧮 Calculator
+### (i) Calculator
 - **Full-featured calculator** with basic arithmetic operations
 - **Real-time calculation** using math expressions parser
 - **Error handling** for invalid expressions
 - **Clean, intuitive interface** with proper button layout
 - **Support for**: Addition (+), Subtraction (-), Multiplication (×), Division (÷)
 
-### 🎂 Age Calculator
+### (ii) Age Calculator
 - **Date picker integration** for easy birth date selection
 - **Precise age calculation** in years, months, and days
 - **Date validation** with reasonable range limits (1900 to present)
 - **Formatted date display** using internationalization
 - **Animated result cards** with smooth scaling effects
 
-### ⚖️ BMI Calculator
+### (iii) BMI Calculator
 - **Height and weight input** with proper validation
 - **Instant BMI calculation** with category classification
 - **Color-coded results** for different BMI categories:
@@ -40,7 +40,7 @@ A modern Flutter application that combines multiple useful tools in one elegant 
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/bhartisahu09/Calculator
    cd multi_utility_app
    ```
 

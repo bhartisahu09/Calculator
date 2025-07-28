@@ -93,7 +93,7 @@ multi_utility_app/
 
 ## Screenshots
 
-| Calculator | Age Calculator | Bmi Calculator |
+| Calculator | Age Calculator | BMI Calculator |
 |:---:|:---:|:---:|
 |<img src="assets/screenshots/calculator.png" width="300"> | <img src="assets/screenshots/age_calculator.png" width="300"> | <img src="assets/screenshots/bmi_calculator.png" width="300"> |
 

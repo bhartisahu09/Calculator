@@ -54,6 +54,12 @@ A modern Flutter application that combines multiple useful tools in one elegant 
    flutter run
    ```
 
+## Screenshots
+
+| Calculator | Age Calculator | BMI Calculator |
+|:---:|:---:|:---:|
+|<img src="assets/screenshots/calculator.png" width="300"> | <img src="assets/screenshots/age_calculator.png" width="300"> | <img src="assets/screenshots/bmi_calculator.png" width="300"> |
+
 ## Project Structure
 
 ```
@@ -90,12 +96,6 @@ multi_utility_app/
 3. Enter your weight in kilograms
 4. Press "Calculate BMI" to see your BMI and category
 5. View color-coded results indicating your health category
-
-## Screenshots
-
-| Calculator | Age Calculator | BMI Calculator |
-|:---:|:---:|:---:|
-|<img src="assets/screenshots/calculator.png" width="300"> | <img src="assets/screenshots/age_calculator.png" width="300"> | <img src="assets/screenshots/bmi_calculator.png" width="300"> |
 
 ## Technical Implementation
 
